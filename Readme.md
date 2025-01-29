@@ -14,7 +14,7 @@ The Car Management Application allows users to manage their cars, including func
 - **Backend**: Node.js, Express.js 
 - **Database**: MongoDB 
 - **Authentication**: JWT 
-- **Cloud Deployment**: Netlify: Frontend, Backend: Render
+- **Cloud Deployment**: Vercel: Frontend, Backend: Render
 
 ## Functionalities
 
@@ -29,14 +29,10 @@ The Car Management Application allows users to manage their cars, including func
 - **Delete Car**: Users can delete a car from their inventory.
 
 
-### API Documentation
-For detailed API documentation, please visit the following link:
-- [https://car-management-application-olt8.onrender.com/api-docs/](https://car-management-application-olt8.onrender.com/api-docs/)
-
 ## Live Application
 
 You can access the live application through the following link:
-- [https://car-management-application-seven.vercel.app/](https://car-management-application-seven.vercel.app/)
+- [https://car-management-xi.vercel.app//](https://car-management-xi.vercel.app/)
 
 ## Setup Instructions
 
