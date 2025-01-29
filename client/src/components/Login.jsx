@@ -122,7 +122,7 @@ const Login = () => {
                                     </div>
 
                                     <div>
-                                        <p><span className="text-danger">Note:</span>Test email: kadamdigvijay@gmail.com <br />Test password: password123</p>
+                                        <p><span className="text-danger">Note:</span>Test email: nikhil@gmail.com <br />Test password: nikhil123</p>
                                     </div>
                                 </div>
                             </div>
